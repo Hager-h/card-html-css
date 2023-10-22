@@ -108,7 +108,7 @@ body {
 }
 
 i.fa-solid fa-heart {
-    background-color: rgb(226, 35, 35) ! important;
+    background-color: red ! important;
     font-size       : 50px;
 }
 
